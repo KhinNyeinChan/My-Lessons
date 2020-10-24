@@ -1,0 +1,7 @@
+Requirements
+No starUML 
+
+Gantt Chart Excel
+
+Project Planning (pg 96)
+Risk Management (pg 104, fig 509)
